@@ -1,7 +1,6 @@
 dataset link >> https://www.kaggle.com/datasets/mexwell/famous-paintings
-questions :
 
--- Solve the below SQL problems using the Famous Paintings & Museum dataset:
+questions :
 
 1) Fetch all the paintings which are not displayed on any museums?
 
